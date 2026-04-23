@@ -1,5 +1,5 @@
 # Churn Prediction
-
+  
 This project focuses on predicting customer churn using historical data. By analyzing customer behavior and demographics, the goal is to identify patterns that lead to attrition and build predictive models to help businesses retain their customers.
 
 ## 🚀 Workflow
